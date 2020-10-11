@@ -7,14 +7,14 @@
           
           
 ## Table of Contents
-  - [Usage](#Usage)
+  - [User-Story](#User-Story)
   - [Installation](#Installation)
   - [Test](#Tests)
   - [Contributors](#Contributors)
   - [Licence](#Licence)
   - [GitHub](#GitHub)
           
-## User Story
+## User-Story
 As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled. 
 You can access it here https://damp-hollows-16395.herokuapp.com/
 
